@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#container{
+    margin: 0 auto;
+    display: flex;
+    width: 550px;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+.square{
+    aspect-ratio: 1/1;
+    background-color: #eee;
+}
+.colored{
+    background-color: #000033;
+}
